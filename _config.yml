@@ -1,6 +1,6 @@
 title: Yujia Gao
-url: "https://jenniferry0701.github.io/personal-website/"
-baseurl: ""
+url: "https://jenniferry0701.github.io/personal-website"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
