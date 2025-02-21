@@ -16,8 +16,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "personal-website"
+   link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "CV.pdf"
  - name: "Contact"
    link: "contact"
