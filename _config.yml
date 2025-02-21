@@ -1,6 +1,6 @@
 title: Yujia Gao
 url: "https://jenniferry0701.github.io/personal-website/"
-baseurl: "/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
