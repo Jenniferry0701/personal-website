@@ -1,17 +1,13 @@
 ---
 layout: default
 ---
-
-## About Me
+## About me
 
 <img class="profile-picture" src="image.jpg">
 
-Hi! I'm Yujia, an incoming first year Ph.D. student in Computer Science at Brown University. I was an undergrad at Georgia Institute of Technology, where I was fortunate to be advised by Dr. Diyi Yang. 
+Hi! I'm Yujia. I'm a first year Ph.D. student in Computer Science at Brown University, advised by [Harini Suresh](https://harinisuresh.com/). Previously, I did my undergrad at Georgia Institute of Technology, where I was advised by [Diyi Yang](https://cs.stanford.edu/~diyiy/). 
 
-## Research Interest
-
-My research interests center on investigating the limits of AI systems and building ML-based sociotechnical systems 
-for marginalized communities. 
+My research investigates the social impacts of AI systems through a sociotechnical perspective. I focus on co-designing grassroots, participatory, commuity-driven AI-based systems that are developed with and owned by marginalized communities. Currently, I am exploring the intersection of AI and Journalism, especially in ways to improve and shift mainstream narratives that perpetuate systemic inequalities. 
 
 ## Publications
 
